@@ -196,13 +196,15 @@ a {
 }
 .div1{
     border-radius: 20px;
-    width: 123px;
+    width: 142px;
     height: 44px;
     background-color: rgba(255, 255, 255, 0.18);
     border: none;
     color: white;
+    margin-left: 15px;
+    font-size: 20px;
 }
 .mashinla2{
-    margin-left: 500px;
+    margin-left: 580px;
     margin-top: 30px;
 }
