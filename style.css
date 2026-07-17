@@ -292,6 +292,7 @@ header .box .div1 .d5 {
     align-items: end;
     gap: 700px;
     padding: 30px;
+    margin: auto;
 }
 
 .main-1 h2 {
