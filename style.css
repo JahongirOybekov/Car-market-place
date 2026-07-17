@@ -9,6 +9,7 @@ header {
     height: 945px;
     background-image: linear-gradient(rgb(0, 0, 0, 0.2), rgb(0, 0, 0, 0.2)), url(/assetes/img/car.jpg);
     margin: auto;
+    background-image: url(./1c7374919fa419ec2abcb24a9fc1024787f16aaa.jpg);
 }
 
 header nav {
